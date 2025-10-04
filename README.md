@@ -2,5 +2,4 @@
 
 পাইথন একটি বস্তু-সংশ্লিষ্ট উচ্চস্তরের প্রোগ্রামিং ভাষা। ১৯৯১ সালে গিডো ভান রসম এটি প্রথম প্রকাশ করেন। পাইথন নির্মাণ করার সময় প্রোগ্রামের পঠনযোগ্যতার উপর বেশি গুরুত্ব দেয়া হয়েছে। এখানে প্রোগ্রামারের পরিশ্রমকে কম্পিউটারের চেয়ে বেশি গুরুত্ব দেয়া হয়েছে।
 
-
-https://docs.google.com/document/d/1-9siIdtB1g-YEyXI6F99afWfDw_qyU8sBPEQbsTYAns/edit?usp=sharing
+https://docs.google.com/document/d/1XpP2OVZL9vexTtvpWl-6YV1JYenMdd0mZXlYcfdmQPA/edit?usp=sharing
